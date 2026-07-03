@@ -1,37 +1,89 @@
-Hi there 👋 I'm Swathi
+<h1 align="left">Hey 👋 What's up?</h1>
 
-🎓 Computer Science Engineering Student
-🤖 AI/ML Engineer | Generative AI Enthusiast | Software Developer
-📍 Chennai, India
+###
 
-About Me 
+<p align="left">
+My name is Swathi and I'm an AI/ML Engineer, Software Developer, and Generative AI enthusiast from Chennai, India 🇮🇳
+</p>
 
-I'm passionate about building intelligent applications that solve real-world problems using Artificial Intelligence and software development. I enjoy working with Machine Learning, NLP, Generative AI, and cloud technologies while continuously learning and experimenting with new technologies.
+###
 
-Tech Stack
+<h2 align="left">About me</h2>
 
-💻 Languages: Python | Java | C | SQL | JavaScript | Kotlin
+###
 
-🌐 Frontend: HTML | CSS | Bootstrap | Angular
+<p align="left">
+✨ Creating bugs and fixing them since 2022<br>
+📚 I'm currently learning LLMs, Generative AI, Cloud technologies, and advanced ML concepts<br>
+🎯 Goals: Build impactful AI solutions and contribute to innovative tech projects<br>
+🏆 IEEE-published researcher in AI & Smart Skin Diagnosis systems<br>
+🚀 Exploring Machine Learning, NLP, CNNs, and real-world AI applications<br>
+🎲 Fun fact: I enjoy turning random ideas into AI-powered projects
+</p>
 
-🧠 AI/ML: Machine Learning | CNN | NLP | LLMs | Generative AI | TensorFlow | Scikit-learn
+###
 
-☁️ Cloud & Tools: Azure | Git | CI/CD | Data Pipelines
+<h2 align="left">I code with</h2>
 
-🗄️ Database: MySQL | Oracle
+###
 
-Featured Projects
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"/>
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"/>
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"/>
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"/>
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"/>
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+  
+</div>
 
-🔹 DermaGenie — AI-powered skin disease detection system (~92% accuracy)
-🔹 CLUBZ — Cloud-based student activity portal on Azure
-🔹 Post2Fit — Virtual tailoring application with MediaPipe
-🔹 AI-powered Document Intelligence & Information Extraction System
+###
 
-Achievements
+<h2 align="left">Featured Projects</h2>
 
-🏆 IEEE Published Researcher
-🏆 Smart India Hackathon Participant
-🏆 Core Member — IEEE Computer Society
-🏆 Hackathons, AI projects & community events
+###
 
-"Always learning. Always building." 🚀
+🚀 **DermaGenie** — AI-powered Skin Disease Detection System (~92% accuracy)  
+
+☁️ **CLUBZ** — Cloud-based Club Activity Portal using Azure  
+
+📏 **Post2Fit** — Virtual Tailor using Flask + MediaPipe  
+
+📄 **AI Document Intelligence System** — NLP-based Information Extraction System  
+
+###
+
+<h2 align="left">Connect with me</h2>
+
+###
+
+<p align="left">
+LinkedIn: Your LinkedIn URL <br>
+Portfolio: Your Portfolio URL <br>
+Email: swathhiii@gmail.com
+</p>
+
+###
+
+<p align="center">
+<i>Always learning • Always building • Always improving 🚀</i>
+</p>
