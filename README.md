@@ -15,7 +15,9 @@ Tech Stack
 🌐 Frontend: HTML | CSS | Bootstrap | Angular
 
 🧠 AI/ML: Machine Learning | CNN | NLP | LLMs | Generative AI | TensorFlow | Scikit-learn
+
 ☁️ Cloud & Tools: Azure | Git | CI/CD | Data Pipelines
+
 🗄️ Database: MySQL | Oracle
 
 Featured Projects
