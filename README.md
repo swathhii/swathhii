@@ -11,7 +11,9 @@ I'm passionate about building intelligent applications that solve real-world pro
 Tech Stack
 
 💻 Languages: Python | Java | C | SQL | JavaScript | Kotlin
+
 🌐 Frontend: HTML | CSS | Bootstrap | Angular
+
 🧠 AI/ML: Machine Learning | CNN | NLP | LLMs | Generative AI | TensorFlow | Scikit-learn
 ☁️ Cloud & Tools: Azure | Git | CI/CD | Data Pipelines
 🗄️ Database: MySQL | Oracle
