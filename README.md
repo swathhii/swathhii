@@ -28,28 +28,24 @@ My name is Swathi and I'm an AI/ML Engineer, Software Developer, and Generative 
 ###
 
 💻 <b>Languages</b>
-
 Python | Java | C | SQL | JavaScript | Kotlin
 
 🌐 <b>Frontend</b>
-
 HTML | CSS | Bootstrap | Angular
 
 🧠 <b>AI / ML</b>
-
 Machine Learning | CNN | NLP | LLMs | Generative AI | TensorFlow | Scikit-learn
 
 ☁️ <b>Cloud & Tools</b>
-
 Azure | Git | CI/CD | Data Pipelines
 
 🗄️ <b>Database</b>
-
 MySQL | Oracle
 
 ###
 
 <h2 align="left">I code with</h2>
+
 ###
 
 <div data-importer="techs" align="left">
