@@ -123,21 +123,6 @@ MySQL | Oracle
 
 🏆 1st Prize — Women's Hackathon Poster Competition
 
-###
-
-<h2 align="left">GitHub Stats</h2>
-
-###
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=swathhii&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swathhii&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swathhii&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ###
 
