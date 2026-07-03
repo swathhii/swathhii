@@ -4,7 +4,7 @@ Hi there 👋 I'm Swathi
 🤖 AI/ML Engineer | Generative AI Enthusiast | Software Developer
 📍 Chennai, India
 
-About Me
+About Me 
 
 I'm passionate about building intelligent applications that solve real-world problems using Artificial Intelligence and software development. I enjoy working with Machine Learning, NLP, Generative AI, and cloud technologies while continuously learning and experimenting with new technologies.
 
