@@ -14,12 +14,38 @@ My name is Swathi and I'm an AI/ML Engineer, Software Developer, and Generative 
 
 <p align="left">
 ✨ Creating bugs and fixing them since 2022<br>
-📚 I'm currently learning LLMs, Generative AI, Cloud technologies, and advanced ML concepts<br>
+📚 I'm currently learning LLMs, Generative AI, advanced Machine Learning concepts, and cloud technologies<br>
 🎯 Goals: Build impactful AI solutions and contribute to innovative tech projects<br>
-🏆 IEEE-published researcher in AI & Smart Skin Diagnosis systems<br>
-🚀 Exploring Machine Learning, NLP, CNNs, and real-world AI applications<br>
-🎲 Fun fact: I enjoy turning random ideas into AI-powered projects
+🏆 IEEE-published researcher in AI-based skin diagnosis systems<br>
+🚀 Passionate about Machine Learning, NLP, CNNs, and real-world AI applications<br>
+🎲 Fun fact: I love turning ideas into AI-powered projects
 </p>
+
+###
+
+<h2 align="left">Tech Stack</h2>
+
+###
+
+💻 <b>Languages</b>
+
+Python | Java | C | SQL | JavaScript | Kotlin
+
+🌐 <b>Frontend</b>
+
+HTML | CSS | Bootstrap | Angular
+
+🧠 <b>AI / ML</b>
+
+Machine Learning | CNN | NLP | LLMs | Generative AI | TensorFlow | Scikit-learn
+
+☁️ <b>Cloud & Tools</b>
+
+Azure | Git | CI/CD | Data Pipelines
+
+🗄️ <b>Database</b>
+
+MySQL | Oracle
 
 ###
 
@@ -28,32 +54,39 @@ My name is Swathi and I'm an AI/ML Engineer, Software Developer, and Generative 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"/>
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"/>
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"/>
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"/>
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"/>
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
-  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
+
 </div>
 
 ###
@@ -62,13 +95,49 @@ My name is Swathi and I'm an AI/ML Engineer, Software Developer, and Generative 
 
 ###
 
-🚀 **DermaGenie** — AI-powered Skin Disease Detection System (~92% accuracy)  
+🚀 <b>DermaGenie</b> — AI-powered skin disease detection system with ~92% accuracy using CNN and Explainable AI
 
-☁️ **CLUBZ** — Cloud-based Club Activity Portal using Azure  
+☁️ <b>CLUBZ</b> — Cloud-based student club activity portal using Azure services
 
-📏 **Post2Fit** — Virtual Tailor using Flask + MediaPipe  
+📏 <b>Post2Fit</b> — Virtual tailoring application using Flask + MediaPipe
 
-📄 **AI Document Intelligence System** — NLP-based Information Extraction System  
+📄 <b>AI Document Intelligence System</b> — NLP-based information extraction pipeline
+
+📱 <b>Food Delivery Application</b> — Android app built with Kotlin
+
+🏥 <b>Hospital Management System</b> — PHP + MySQL database-driven application
+
+###
+
+<h2 align="left">Achievements</h2>
+
+###
+
+🏆 IEEE Published Researcher
+
+🏆 Core Member — IEEE Computer Society
+
+🏆 Smart India Hackathon Participant
+
+🏆 Workato AI Hackathon Participant
+
+🏆 1st Prize — Women's Hackathon Poster Competition
+
+###
+
+<h2 align="left">GitHub Stats</h2>
+
+###
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=swathhii&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swathhii&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swathhii&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ###
 
@@ -77,9 +146,13 @@ My name is Swathi and I'm an AI/ML Engineer, Software Developer, and Generative 
 ###
 
 <p align="left">
-LinkedIn: Your LinkedIn URL <br>
-Portfolio: Your Portfolio URL <br>
-Email: swathhiii@gmail.com
+
+📧 Email: swathhiii@gmail.com
+
+💼 LinkedIn: Add your LinkedIn URL
+
+🌐 Portfolio: Add your Portfolio URL
+
 </p>
 
 ###
